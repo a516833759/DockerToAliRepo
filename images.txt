@@ -18,4 +18,4 @@ moby/buildkit:buildx-stable-1
 node:18-alpine
 node:16
 node:18
-python:3.9-mysql
+python:3.9
