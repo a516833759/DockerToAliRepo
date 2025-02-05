@@ -20,3 +20,4 @@ node:16
 node:18
 python:3.9
 ubuntu:22.04
+nacos-server
