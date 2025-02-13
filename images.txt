@@ -21,4 +21,4 @@ node:18
 python:3.9
 ubuntu:22.04
 jenkins/jenkins
-alpine-traefik:1.7.18-0
+rawmind/alpine-traefik:1.7.18-0
