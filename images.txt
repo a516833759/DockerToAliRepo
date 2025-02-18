@@ -22,4 +22,3 @@ python:3.9
 ubuntu:22.04
 jenkins/jenkins
 rawmind/alpine-traefik:1.7.18-0
-openjdk:8-jdk
