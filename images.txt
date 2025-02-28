@@ -24,4 +24,4 @@ jenkins/jenkins
 rawmind/alpine-traefik:1.7.18-0
 eclipse-temurin
 eclipse-temurin:8-jdk
-kube-apiserver:v1.26.0
+kube-apiserver:v1.26.10
